@@ -1,14 +1,14 @@
 # deepnox/docker-node
 
 >
-> A generic set of consistency entrypoints to simplify startup of applicative containers and debugging docker images.
+> Another extended Docker image based on official Node image.
 >
 > 🚀 Powered by the [Deepnox Team](https://deepnox.io).
 >
 
 ## Synopsis
 
-A generic set of consistency entrypoints to simplify startup of applicative containers and debugging docker images.
+Another extended Docker image based on official Node image. 
 
 ## Usage
 
