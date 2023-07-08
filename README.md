@@ -12,7 +12,15 @@ Another extended Docker image based on official Node image.
 
 ## Usage
 
-`@todo`
+``̀`bash
+docker run -it deepnox/node:latest
+```
+
+## Build
+
+``̀`bash
+docker build deepnox/node:18.16.1-alpine3.18 .
+```
 
 ## License
 
